@@ -90,8 +90,11 @@ data_file 'AUDIO_SOUNDDATA' 'audioconfig/aq61subfa20_sounds.dat'
 data_file 'AUDIO_GAMEDATA' 'audioconfig/lambov10_game.dat'
 data_file 'AUDIO_SOUNDDATA' 'audioconfig/lambov10_sounds.dat'
 
-
-
+data_file 'AUDIO_SYNTHDATA' 'audioconfig/bnr34ffeng_amp.dat'
+data_file 'AUDIO_GAMEDATA' 'audioconfig/bnr34ffeng_game.dat'
+data_file 'AUDIO_SOUNDDATA' 'audioconfig/bnr34ffeng_sounds.dat'
+data_file 'AUDIO_GAMEDATA' 'audioconfig/aq78bmws65_game.dat'
+data_file 'AUDIO_SOUNDDATA' 'audioconfig/aq78bmws65_sounds.dat'
 
 
 
@@ -126,4 +129,5 @@ data_file 'AUDIO_WAVEPACK' 'sfx/dlc_prg4b11t'
 data_file 'AUDIO_WAVEPACK' 'sfx/dlc_aq61subfa20'
 data_file 'AUDIO_WAVEPACK' 'sfx/dlc_lambov10'
 
-
+data_file 'AUDIO_WAVEPACK' 'sfx/dlc_bnr34ffeng'
+data_file 'AUDIO_WAVEPACK' 'sfx/dlc_aq78bmws65'
