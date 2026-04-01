@@ -131,3 +131,4 @@ data_file 'AUDIO_WAVEPACK' 'sfx/dlc_lambov10'
 
 data_file 'AUDIO_WAVEPACK' 'sfx/dlc_bnr34ffeng'
 data_file 'AUDIO_WAVEPACK' 'sfx/dlc_aq78bmws65'
+data_file 'AUDIO_WAVEPACK' 'sfx/dlc_ISSI2'
