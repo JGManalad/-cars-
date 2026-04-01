@@ -95,7 +95,8 @@ data_file 'AUDIO_GAMEDATA' 'audioconfig/bnr34ffeng_game.dat'
 data_file 'AUDIO_SOUNDDATA' 'audioconfig/bnr34ffeng_sounds.dat'
 data_file 'AUDIO_GAMEDATA' 'audioconfig/aq78bmws65_game.dat'
 data_file 'AUDIO_SOUNDDATA' 'audioconfig/aq78bmws65_sounds.dat'
-
+data_file 'AUDIO_GAMEDATA' 'audioconfig/aq48roln72v12_game.dat'
+data_file 'AUDIO_SOUNDDATA' 'audioconfig/aq48roln72v12_sounds.dat'
 
 
 data_file 'AUDIO_WAVEPACK'  'sfx/dlc_cummins5924v'
@@ -131,4 +132,5 @@ data_file 'AUDIO_WAVEPACK' 'sfx/dlc_lambov10'
 
 data_file 'AUDIO_WAVEPACK' 'sfx/dlc_bnr34ffeng'
 data_file 'AUDIO_WAVEPACK' 'sfx/dlc_aq78bmws65'
-data_file 'AUDIO_WAVEPACK' 'sfx/dlc_ISSI2'
+data_file 'AUDIO_WAVEPACK' 'sfx/dlc_civic'
+data_file 'AUDIO_WAVEPACK' 'sfx/dlc_aq48roln72v12'
